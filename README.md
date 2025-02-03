@@ -81,18 +81,3 @@ Contribuições são bem-vindas! Siga os passos:
 3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
 4. Push para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abra um Pull Request
-
-## 📄 Licença
-
-Distribuído sob licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Feito por [Giovanni](https://github.com/giovanni683) | **Personalize este bot conforme suas necessidades!**
-```
-
-### Personalizações Sugeridas:
-1. Adicione screenshots reais do bot em ação.
-2. Inclua detalhes sobre APIs externas usadas (ex: OpenWeatherMap para clima).
-3. Explique como modificar/como adicionar novos comandos.
-4. Adicione um link para documentação detalhada (se houver).
